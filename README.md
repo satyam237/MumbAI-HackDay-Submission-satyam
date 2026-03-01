@@ -294,21 +294,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **LlamaParse** for high-accuracy document OCR
 - **Indian Tax Experts** for regulatory guidance and validation
 
-## 📞 Support
-
-- **Documentation**: [Wiki](https://github.com/yourrepo/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourrepo/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourrepo/discussions)
-- **Email**: support@yourcompany.com
-
-## 🏆 Awards & Recognition
-
-- 🥇 **Winner**: [Hackathon Name] 2024
-- 🏅 **Best AI Innovation**: [Competition Name]
-- ⭐ **Featured**: Make.com Community Showcase
-
 ---
 
 **Made with ❤️ for Indian businesses seeking invoice processing automation**
 
-> "Less typing. More trusting. AP that explains itself."
+> "Less typing. More trusting. APP that explains itself."
